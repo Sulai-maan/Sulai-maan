@@ -1,34 +1,64 @@
-## Hi there 👋
+# 👋 Hi, I'm Sulaiman Salako
 
-<h1 align="center">I'm Sulaiman, a backend engineer</h1>
-<h3 align="center">I switched over from UX to be closer to where the building is happening</h3>
+I'm a **Backend Engineer** passionate about creating impactful, technology-enabled solutions to real problems. I switched over from UX to be closer to where the building is happening. 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sulai-maan&label=Profile%20views&color=0e75b6&style=flat" alt="sulai-maan" /> </p>
+---
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sulai-maan" alt="sulai-maan" /></a> </p>
+## 🌟 Skills & Technologies
 
-- 🔭 I’m currently working on **Along (a peer-to-peer platform for package delivery)**
+- **Languages:** Python, C, SQL
+- **Frameworks:** FastAPI, Jinja, Django
+- **Databases:** PostgreSQL, MySQL, Redis
+- **Cloud & DevOps:** AWS, Docker, GitHub Actions, CI & CD
+- **Other:** Writing, Product research & UX audit
 
-- 🌱 I’m currently learning **FastAPI, DSA, Jinja2 templating**
+---
 
-- 🤝 I’m looking for help with **internships and mentorship**
+## 💼 Work Experience
 
-- 👨‍💻 All of my projects are available at [https://github.com/Sulai-maan?tab=repositories](https://github.com/Sulai-maan?tab=repositories)
+### **Software Engineer, Along** *(Mar 2025 – Current | Lagos, NG)*
+- Leveraging AI as mentor, I'm honing my engineering skills by building a product that I'm a confident solves a pressing problem.
 
-- 📫 How to reach me **sulaimonsalako20@gmail.com**
+  
+### **Software Engineer Intern, Hotels.NG** *(Jan 2025 – March 2025 | Remote, Lagos, NG)*
+- Built a Telex (similar to Slack) integration that helps teams monitor their Google Cloud BigQuery jobs and resources
+- Built and deployed a web service API and set up nginx as a proxy server
+- Integrated Stripe as a payment processor for HNG's boilerplate project
+- Implemented unit and integration tests, ensuring roduct components worked as intended both in
+isolation and when integrated with the core app
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/sulai_uxcontent" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sulai_uxcontent" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sulaimon-salako-860129124/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sulaimon-salako-860129124/" height="30" width="40" /></a>
-<a href="https://medium.com/@sulaimonsalako" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sulaimonsalako" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+## 📂 Projects
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sulai-maan&show_icons=true&locale=en&layout=compact" alt="sulai-maan" /></p>
+### **Peer-to-peer delivey App** *(FastAPI, PostgreSQL, Docker)*
+#### I'm currently building a product that matches commuters and travellers to people who want to deliver a package along their route. Some of what I've implemented include:
+- A secure authentication and authorization flow using RBAC, JWT, and Redis in-memory DB
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sulai-maan&show_icons=true&locale=en" alt="sulai-maan" /></p>
+### **AI Call Center Agent** *(FastAPI, Redis, Pytest)*
+####
+- Developed API endpoints for the web product.
+- Optimized code for efficiency, e.g, implemented pandas for the csv upload feature for faster processing.
+- Created and ran unit tests on applications component
+- Worked with QA to fix critical bugs and contribute to a working, bug-free MVP
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sulai-maan&" alt="sulai-maan" /></p>
+---
+
+## 📈 Key Metrics
+### I don't have my numbers yet, but let me tell you, I'm a sucker for impact, and here's some proof: As a UXer, I
+
+- Conducted a UX audit and rewrite that **plugged a leaking customer onboarding flow**, raising successful onboarding to ~70%, up from ~30%  
+- Cut customer support costs by ~10% by simplfying and redistributing onboarding content.
+- Created a product white-paper for GTM launch that contributed to a ~$100k deals pipeline.
+
+---
+
+## 📫 Let's Connect
+
+- [LinkedIn](https://www.linkedin.com/in/sulaimon-salako-860129124/)
+- [Email](mailto:sulaimonsalako20@gmail.com)
+- [Portfolio](https://github.com/sulai-maan)
+
+---
+
+🚀 **Let's build something impactful together!**
