@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<h1 align="center">Hi 👋, I'm Sulaiman, a backend engineer</h1>
+<h1 align="center">I'm Sulaiman, a backend engineer</h1>
 <h3 align="center">I switched over from UX to be closer to where the building is happening</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sulai-maan&label=Profile%20views&color=0e75b6&style=flat" alt="sulai-maan" /> </p>
